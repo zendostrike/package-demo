@@ -1,5 +1,11 @@
 # use-ds-list
 
+## 1.0.6
+
+### Patch Changes
+
+- e02fb53: Add npm token
+
 ## 1.0.5
 
 ### Patch Changes
