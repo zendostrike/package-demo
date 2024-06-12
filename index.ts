@@ -6,5 +6,6 @@ export function useDynamicSizeList() {
   return {
     width: window.innerWidth,
     height: window.innerHeight,
+    uuid: window.crypto.randomUUID(),
   };
 }
