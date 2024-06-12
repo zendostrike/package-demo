@@ -1,5 +1,11 @@
 # use-ds-list
 
+## 1.0.4
+
+### Patch Changes
+
+- b7022ea: changeset access public
+
 ## 1.0.3
 
 ### Patch Changes
