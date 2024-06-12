@@ -1,5 +1,11 @@
 # use-ds-list
 
+## 1.0.11
+
+### Patch Changes
+
+- c333a4f: new version
+
 ## 1.0.10
 
 ### Patch Changes
