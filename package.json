@@ -1,6 +1,6 @@
 {
   "name": "use-ds-list",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Testing packages with tsup",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
