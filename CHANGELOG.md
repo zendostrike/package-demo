@@ -1,5 +1,11 @@
 # use-ds-list
 
+## 1.0.7
+
+### Patch Changes
+
+- 674345c: add ft 3
+
 ## 1.0.6
 
 ### Patch Changes
