@@ -1,5 +1,11 @@
 # use-ds-list
 
+## 1.0.5
+
+### Patch Changes
+
+- 9a197ea: Hook returns window size
+
 ## 1.0.4
 
 ### Patch Changes
