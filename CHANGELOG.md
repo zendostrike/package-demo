@@ -1,5 +1,12 @@
 # use-ds-list
 
+## 1.0.9
+
+### Patch Changes
+
+- cbf9bae: new feature
+  this is my feature changeset information
+
 ## 1.0.8
 
 ### Patch Changes
