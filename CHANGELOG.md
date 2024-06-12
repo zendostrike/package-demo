@@ -1,5 +1,11 @@
 # use-ds-list
 
+## 1.0.8
+
+### Patch Changes
+
+- 3c25791: whatever
+
 ## 1.0.7
 
 ### Patch Changes
