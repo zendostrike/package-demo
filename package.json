@@ -10,7 +10,7 @@
     "lint": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "zendostrike",
   "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "^2.27.5",
