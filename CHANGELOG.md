@@ -1,5 +1,11 @@
 # use-ds-list
 
+## 1.1.0
+
+### Minor Changes
+
+- 45fc2c7: ok
+
 ## 1.0.11
 
 ### Patch Changes
