@@ -1,3 +1,10 @@
 export function useDynamicSizeList() {
-  return "ok"
+  if (!window) {
+    throw new Error("You are not in a browser");
+  }
+
+  return {
+    width: window.innerWidth,
+    height: window.innerHeight,
+  };
 }
